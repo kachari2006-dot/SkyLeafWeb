@@ -31,7 +31,7 @@
             <button class="btn">Hover me</button>
 
 <style>
-.btn{
+.{div class="card"
   background:#2b6cb0;
   color:#fff;
   border:none;
@@ -41,7 +41,7 @@
   cursor:pointer;
   transition: transform 180ms ease, background 180ms ease, box-shadow 180ms ease;
 }
-.btn:hover{
+div class= "card" :hover{
   transform: translateY(-4px) scale(1.03);
   background:#235a9a;
   box-shadow: 0 8px 18px rgba(0,0,0,0.12);

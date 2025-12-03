@@ -31,7 +31,14 @@
             <button class="btn">Hover me</button>
 
 <style>
-.{div class="card"
+
+}
+
+}
+</style> 
+            <div class="card"><button class="btn">Hover me</button>
+
+<style>
   background:#2b6cb0;
   color:#fff;
   border:none;
@@ -41,13 +48,12 @@
   cursor:pointer;
   transition: transform 180ms ease, background 180ms ease, box-shadow 180ms ease;
 }
-div class= "card" :hover{
+.btn:hover{
   transform: translateY(-4px) scale(1.03);
   background:#235a9a;
   box-shadow: 0 8px 18px rgba(0,0,0,0.12);
 }
-</style> 
-            <div class="card"><h3>Web Design</h3><p>Simple and modern static websites.</p></div>
+</style><h3>Web Design</h3><p>Simple and modern static websites.</p></div>
             <div class="card"><h3>Portfolio Pages</h3><p>Clean personal and project portfolios.</p></div>
             <div class="card"><h3>Landing Pages</h3><p>Fast and attractive info pages.</p></div>
         </div>

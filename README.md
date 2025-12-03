@@ -10,7 +10,7 @@
         header { background: #3b82f6; color: white; padding: 40px 20px; text-align: center; }
         .section { padding: 40px 20px; text-align: center; }
         .services { display: flex; justify-content: center; gap: 20px; }
-        .card { background: white; padding: 20px; width: 250px; border-radius: 8px; box-shadow: 0 2px 5px #0002; }
+        .card { background: white; padding: 20px; width: 250px; border-radius: 8px; box-shadow: 0 2px 5px #0002; hover: }
         footer { background: #111; color: #ddd; padding: 20px; text-align: center; margin-top: 40px; }
     </style>
 </head>
@@ -38,4 +38,4 @@
         © 2025 SkyLeafWeb • Designed by You
     </footer>
 </body>
-</html>
+

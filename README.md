@@ -28,16 +28,6 @@
     <div class="section">
         <h2>Our Services</h2>
         <div class="services">
-            <button class="btn">Hover me</button>
-
-<style>
-
-}
-
-}
-</style> 
-            <div class="card"><button class="btn">Hover me</button>
-
 <style>
   background:#2b6cb0;
   color:#fff;

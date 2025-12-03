@@ -28,6 +28,25 @@
     <div class="section">
         <h2>Our Services</h2>
         <div class="services">
+            <button class="btn">Hover me</button>
+
+<style>
+.btn{
+  background:#2b6cb0;
+  color:#fff;
+  border:none;
+  padding:10px 18px;
+  font-size:16px;
+  border-radius:8px;
+  cursor:pointer;
+  transition: transform 180ms ease, background 180ms ease, box-shadow 180ms ease;
+}
+.btn:hover{
+  transform: translateY(-4px) scale(1.03);
+  background:#235a9a;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+}
+</style> 
             <div class="card"><h3>Web Design</h3><p>Simple and modern static websites.</p></div>
             <div class="card"><h3>Portfolio Pages</h3><p>Clean personal and project portfolios.</p></div>
             <div class="card"><h3>Landing Pages</h3><p>Fast and attractive info pages.</p></div>
